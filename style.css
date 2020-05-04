@@ -1,0 +1,48 @@
+h3 {
+  font-size: 25px;
+    color: #6b5acd;
+    text-align: center;
+  }
+  #para1{
+    color: #f0f8ff;
+  }
+  #img{
+    text-align: center;
+  }
+  #label{
+    color: #f0f8ff;
+  }
+.div1{
+  width: 730px;
+  margin: auto;
+  vertical-align: middle;
+  height:790px;
+  border:1px solid black;
+  background-color: #6b5acd;
+}
+#tick{
+  display: block;
+  margin-left: 35em;
+  margin-top: 10em;
+}
+#thanks{
+  margin-top: 1em;
+  margin-left: 17.5em;
+  color: green; 
+  margin-bottom: 0em; 
+}
+#submitted{
+  font-size: 23px;
+  color: #6b5acd;
+}
+#back{
+  font-size: 25px;
+  color: #6b5acd;
+  margin-left: 24.5em;
+}
+#submitbtn{
+  margin-left: 22em;
+}
+#resetbtn{
+  margin-left: 2em;
+}
